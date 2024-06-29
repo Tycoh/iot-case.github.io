@@ -34,8 +34,7 @@
 
 対応する基板データはGitHubで公開しています。設計から製造まで、皆様のIoT製品の開発を全面的にサポートします。
 
-- [基板データはこちら](kicad/OnlyConn/)
-- [Tweliteの基板アンテナを収めることもできます](kicad/twelite-PCB-Ant/)
+- [基板データはこちら](https://github.com/Tycoh/iot-case.github.io/tree/main/kicad/OnlyConn)
 
 ## コネクタ3Dモデル
 
